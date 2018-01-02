@@ -14,5 +14,5 @@ So long and may the force be with you!
 
 ### January
 
-:fireworks: [01/01/2018 - Feedback, inovation, focus and Flash](2018/january/01.md)
-:pencil2: [02/01/2018 - Semantics, Universal Basic Income, Side Project](2018/january/01.md)
+- :fireworks: [01/01/2018 - Feedback, inovation, focus and Flash](2018/january/01.md)
+- :pencil2: [02/01/2018 - Semantics, Universal Basic Income, Side Project](2018/january/01.md)
