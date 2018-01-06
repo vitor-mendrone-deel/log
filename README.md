@@ -18,3 +18,4 @@ So long and may the force be with you!
 - :pencil2: [02/01/2018 - Semantics, Universal Basic Income, Side Project](2018/january/02.md)
 - :alien: [03/01/2018 - Fermi Paradox, Spread Operator Tricks, Work energy](2018/january/03.md)
 - :warning: [04/01/2018 - Future, Reduce, Disagreements, Bad Habits, CSS for Engineers](2018/january/04.md)
+- :spaghetti: [05/01/2018 - Lunch, Innovators Responsability, Substância Venenosa](2018/january/05.md)
