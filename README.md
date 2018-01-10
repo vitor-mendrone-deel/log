@@ -20,3 +20,4 @@ So long and may the force be with you!
 - :warning: [04/01/2018 - Future, Reduce, Disagreements, Bad Habits, CSS for Engineers](2018/january/04.md)
 - :spaghetti: [05/01/2018 - Lunch, Innovators Responsability, Substância Venenosa](2018/january/05.md)
 - :hospital: [08/01/2018 - Mental Health, Writing Better, Rescue the Web!](2018/january/08.md)
+- :syringe: [09/01/2018 - Super Humans, Intl API, Reinventing Organizations](2018/january/09.md)
