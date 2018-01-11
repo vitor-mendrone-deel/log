@@ -21,3 +21,4 @@ So long and may the force be with you!
 - :spaghetti: [05/01/2018 - Lunch, Innovators Responsability, Substância Venenosa](2018/january/05.md)
 - :hospital: [08/01/2018 - Mental Health, Writing Better, Rescue the Web!](2018/january/08.md)
 - :syringe: [09/01/2018 - Super Humans, Intl API, Reinventing Organizations](2018/january/09.md)
+- :sound: [10/01/2018 - Excelence, Grids, Rework Podcast](2018/january/10.md)
