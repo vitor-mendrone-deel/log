@@ -23,3 +23,4 @@ So long and may the force be with you!
 - :syringe: [09/01/2018 - Super Humans, Intl API, Reinventing Organizations](2018/january/09.md)
 - :sound: [10/01/2018 - Excelence, Grids, Rework Podcast](2018/january/10.md)
 - :thought_balloon: [11/01/2018 - Conspiracy Theory, Dataset, Shy Teammates, Have a Nice Day!](2018/january/11.md)
+- :watch: [16/01/2018 - Inspiring People, Honesty, Destructuring Assignment](2018/january/16.md)
