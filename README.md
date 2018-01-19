@@ -24,3 +24,4 @@ So long and may the force be with you!
 - :sound: [10/01/2018 - Excelence, Grids, Rework Podcast](2018/january/10.md)
 - :thought_balloon: [11/01/2018 - Conspiracy Theory, Dataset, Shy Teammates, Have a Nice Day!](2018/january/11.md)
 - :watch: [16/01/2018 - Inspiring People, Honesty, Destructuring Assignment](2018/january/16.md)
+- :muscle: [19/01/2018 - Strengths, font-weight, Magical Solutions, Functional Programming](2018/january/19.md)
