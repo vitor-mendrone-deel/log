@@ -25,3 +25,4 @@ So long and may the force be with you!
 - :thought_balloon: [11/01/2018 - Conspiracy Theory, Dataset, Shy Teammates, Have a Nice Day!](2018/january/11.md)
 - :watch: [16/01/2018 - Inspiring People, Honesty, Destructuring Assignment](2018/january/16.md)
 - :muscle: [19/01/2018 - Strengths, font-weight, Magical Solutions, Functional Programming](2018/january/19.md)
+- :chart_with_downwards_trend: [23/01/2018 - Business Debit, Obstacles, CSS Houdini, Home Automation](2018/january/23.md)
