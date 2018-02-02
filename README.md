@@ -27,3 +27,7 @@ So long and may the force be with you!
 - :muscle: [19/01/2018 - Strengths, font-weight, Magical Solutions, Functional Programming](2018/january/19.md)
 - :chart_with_downwards_trend: [23/01/2018 - Business Debit, Obstacles, CSS Houdini, Home Automation](2018/january/23.md)
 - :office: [26/01/2018 - Work Hard, Console Observer, Slayer, Arquitetura CSS, Legend of Zelda](2018/january/26.md)
+
+### February
+
+- :bulb: [01/02/2018 - Sincerity, Basics, Code Splitting](2018/february/01.md)
