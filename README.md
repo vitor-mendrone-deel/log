@@ -31,3 +31,4 @@ So long and may the force be with you!
 ### February
 
 - :bulb: [01/02/2018 - Sincerity, Basics, Code Splitting](2018/february/01.md)
+- :heavy_exclamation_mark: [07/02/2018 - Details, Javascript, Perfection Kills, Crash Course](2018/february/07.md)
