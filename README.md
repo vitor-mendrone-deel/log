@@ -32,3 +32,7 @@ So long and may the force be with you!
 
 - :bulb: [01/02/2018 - Sincerity, Basics, Code Splitting](2018/february/01.md)
 - :heavy_exclamation_mark: [07/02/2018 - Details, Javascript, Perfection Kills, Crash Course](2018/february/07.md)
+
+### May
+
+- :evergreen_tree: [09/05/2018 - I'm back!, Be wrong or fake it, Array.includes](2018/may/09.md)
