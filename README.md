@@ -12,6 +12,19 @@ So long and may the force be with you!
 
 ## Index
 
+### November
+
+- :sunrise_over_mountains: [29/11/2018 - There and back again, saving drunks, blockchain to help democracy](2018/november/29.md)
+
+### May
+
+- :evergreen_tree: [09/05/2018 - I'm back!, Be wrong or fake it, Array.includes](2018/may/09.md)
+
+### February
+
+- :bulb: [01/02/2018 - Sincerity, Basics, Code Splitting](2018/february/01.md)
+- :heavy_exclamation_mark: [07/02/2018 - Details, Javascript, Perfection Kills, Crash Course](2018/february/07.md)
+
 ### January
 
 - :fireworks: [01/01/2018 - Feedback, inovation, focus and Flash](2018/january/01.md)
@@ -27,12 +40,3 @@ So long and may the force be with you!
 - :muscle: [19/01/2018 - Strengths, font-weight, Magical Solutions, Functional Programming](2018/january/19.md)
 - :chart_with_downwards_trend: [23/01/2018 - Business Debit, Obstacles, CSS Houdini, Home Automation](2018/january/23.md)
 - :office: [26/01/2018 - Work Hard, Console Observer, Slayer, Arquitetura CSS, Legend of Zelda](2018/january/26.md)
-
-### February
-
-- :bulb: [01/02/2018 - Sincerity, Basics, Code Splitting](2018/february/01.md)
-- :heavy_exclamation_mark: [07/02/2018 - Details, Javascript, Perfection Kills, Crash Course](2018/february/07.md)
-
-### May
-
-- :evergreen_tree: [09/05/2018 - I'm back!, Be wrong or fake it, Array.includes](2018/may/09.md)
