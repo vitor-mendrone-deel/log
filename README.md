@@ -15,6 +15,7 @@ So long and may the force be with you!
 ### November
 
 - :sunrise_over_mountains: [29/11/2018 - There and back again, saving drunks, blockchain to help democracy](2018/november/29.md)
+- :chart_with_downwards_trend: [30/11/2018 - UX and Business, You are not a product](2018/november/30.md)
 
 ### May
 
